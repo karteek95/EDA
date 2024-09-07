@@ -2,3 +2,5 @@
 *.iml
 /train.csv
 /.ipynb_checkpoints/NYC_Taxi_Trip_Duration-checkpoint.ipynb
+/sample_submission.csv
+/test.csv
